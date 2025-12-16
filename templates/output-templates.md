@@ -78,6 +78,15 @@ Opening: Many integrations fail for boring reasons.
 Body: Unclear ownership, vague contracts, and assumptions that never get revisited. The fix is rarely exotic.
 Close: If this is a problem you are navigating, happy to talk.
 
+Brand Signature:
+- Always include the company slogan as the final line
+- Visually separated from the post body
+- Styled with light “bling” but not salesy
+- Never framed as a CTA
+
+Format:
+✨ Smart logic for modern platforms ✨
+
 ---
 
 ## Resume Bullet Template
